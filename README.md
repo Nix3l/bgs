@@ -1,2 +1,1 @@
 # wallpapers
-Everblush theme wallpapers. 
